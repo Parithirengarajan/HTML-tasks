@@ -1,2 +1,0 @@
-# HTML-tasks
-Daily tasks
